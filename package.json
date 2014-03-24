@@ -1,0 +1,24 @@
+{
+  "author"      : "Peter Haider",
+  "name"        : "api-cli",
+  "description" : "Framework to build CLI-based applications and helper scripts",
+  "version"     : "0.1.0",
+  "repository"  : {
+    "url": "https://github.com/dapepe/api-cli"
+  },
+  "main": "./lib/api-cli",
+  "keywords": [
+    "cli",
+    "api"
+  ],
+  "dependencies": {
+    "request"     : "~2.27.0",
+    "read"        : "~1.0.5",
+    "nopt"        : "~2.1.2",
+    "cli-table"   : "~0.3.0",
+    "prettyjson"  : "~0.10.0"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
