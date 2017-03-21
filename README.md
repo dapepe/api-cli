@@ -10,13 +10,6 @@ I simply love Node.JS to create lean, CLI-based applications to access APIs in o
 automate tasks. In order to speed up the development process, I created this library as
 a blueprint/framework.
 
-For example I used `api-cli` to implement a CLI to connect to the
-[Lingulog](http://www.lingulog.com) API. This is how an example call would look like:
-
-```
-lingulog projects list -sort=name
-```
-
 
 Installation
 ------------
